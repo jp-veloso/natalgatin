@@ -1,0 +1,17 @@
+# Dependências do Node.js
+node_modules/
+
+# Saída de build
+dist/
+build/
+
+# Configurações locais
+.env
+
+# Arquivos do macOS
+.DS_Store
+
+# Logs e relatórios
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
